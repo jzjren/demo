@@ -17,7 +17,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.talkweb.移动考勤</string>
+<string>com.talkweb.kaoqin</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
